@@ -1,0 +1,23 @@
+{
+  "name": "con",
+  "version": "1.0.0",
+  "description": "trial exp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantsuman04/contoso.git"
+  },
+  "author": "s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantsuman04/contoso/issues"
+  },
+  "homepage": "https://github.com/prashantsuman04/contoso#readme",
+  "dependencies": {
+    "node": "^18.7.0"
+  }
+}
